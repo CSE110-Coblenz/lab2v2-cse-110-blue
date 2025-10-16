@@ -1,4 +1,4 @@
-const snacks: string[] = ['chips', 'pringles'];//,'pretzels'];
+const snacks: string[] = ['chips', 'pringles','pretzels'];
 
 export function printSnacks(): void {
 	for (const s of snacks) {
